@@ -53,7 +53,12 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
+## 📋 Project Roadmap
 
+The project roadmap, milestones, and task planning are maintained in Notion.
+
+🔗 **View the complete roadmap:**  
+https://app.notion.com/p/Data-Warehouse-Project-38b5a231882e8011a7acf61ac39dbef9?source=copy_link
 ## 📜 License
 
 This project is licensed under the **MIT License** (LICENSE). You are free to use, modify, and share this project with proper attribution.
