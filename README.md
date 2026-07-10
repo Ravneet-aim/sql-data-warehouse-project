@@ -43,4 +43,4 @@ This project is licensed under the **MIT License** (LICENSE). You are free to us
 
 ## 🌟 About Me
 
-Hi there! I'm **Ravneet Kaur**. I'm an IT student at Northeastern University and passion to learn analytics .
+Hi there! I'm **Ravneet Kaur**. I'm an IT student at Northeastern University and very passionate to use data to make positive changes .
