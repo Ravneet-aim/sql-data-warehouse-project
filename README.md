@@ -130,9 +130,10 @@ I'm continuously learning and building real-world projects to strengthen my skil
 
 ---
 
+
 # 📬 Connect With Me
 
-[![LinkedIn]()https://www.linkedin.com/in/ravneet-kaur-94a5aa271/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravneet-kaur-94a5aa271/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravneet-aim)
 
