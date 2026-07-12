@@ -32,7 +32,7 @@ Develop SQL-based analytical models and reporting views to generate business ins
 
 The project follows the **Medallion Architecture**, consisting of Bronze, Silver, and Gold layers.
 
-![Data Architecture]("docs\data_architecture.drawio (1).png")
+![Data Architecture](docs\data_architecture.drawio (1).png)
 
 ### Bronze Layer
 
