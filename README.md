@@ -32,7 +32,7 @@ Develop SQL-based analytical models and reporting views to generate business ins
 
 The project follows the **Medallion Architecture**, consisting of Bronze, Silver, and Gold layers.
 
-![Data Architecture]("C:\Users\Friends\Downloads\data_architecture.drawio (1).png")
+![Data Architecture]("docs\data_architecture.drawio (1).png")
 
 ### Bronze Layer
 
@@ -132,7 +132,7 @@ I'm continuously learning and building real-world projects to strengthen my skil
 
 # 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search-results/?currentJobId=4411407609&eBP=CwEAAAGfVww1lExccRFcJQ4-vXaH6W-eUaMu_okyvjZzWWU-UuebKjvAqGAsNuBPElcnmVsEYyv7N4inoJOFxcnoQIjjyB5JQTHGavX7PTYA9dlJuPZ9oV5DkbQlI6dvXnaP7WK-_2uDRLL5Ujmqs9HRYSZGQ2YEru7klpd0AsiUl7QyAm4WEoiu4qLTYHC0YU6DHq4EjSJd99tT65g7oqpsVTu6A8W0aSZVVjYAJKI1YAoUxqG2k4bOF8WajgAEunTadeHpgXoybmLB_8Dq59oPjgDazm3Re7_4xjIvSE3dubkSmL1dfpHwB42-z40_KVQ7GvzbOmhE9HUOH5WK9_fHkTCrG_CSs0wWljq_usDhF-9XuRS2aXx1zJrM1K25z1moXf1RbQszGghIsTUCqa2pmwxuDluwXjTYV0ygvX4vA3_i9tfT-mrOzDuQBTOsF9fLXcnw4o0M6fnvHxhkFsIOemaD2rmI9EW1k3cwdoF5suIfeTq9sbhfVwbnUvCtqNAOaYsEl7GE&refId=ceo9VxdAvXNhvnr1vlVTZw%3D%3D&trackingId=adOY9VklmJd609gwf2DOjg%3D%3D&keywords=Data%20Analyst%20intern&origin=JOBS_HOME_KEYWORD_HISTORY&geoId=103644278&distance=0.0)
+[![LinkedIn]()https://www.linkedin.com/in/ravneet-kaur-94a5aa271/
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravneet-aim)
 
